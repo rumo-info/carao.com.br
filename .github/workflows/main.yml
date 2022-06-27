@@ -17,4 +17,4 @@ jobs:
           server: ftp.leomaciel.com
           username: leomacie
           password: rum0.1nf0
-          server-dir: sites/carao.com.br
+          server-dir: sites/carao.com.br/

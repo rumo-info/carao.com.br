@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-name: 🚀 Pull Request to Main
+name: 🚀 Push to Main
 jobs:
   web-deploy:
     name: 🎉 Deploy
